@@ -1,6 +1,6 @@
 {
-  "name": "ethereum-simulator",
-  "version": "1.0.2",
+  "name": "@thangnq/ethereum-simulator",
+  "version": "1.0.0",
   "description": "A typescript library to instrument ganache+web3+solc and test a smart contract end-to-end",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.js",
@@ -16,10 +16,8 @@
   ],
   "author": "Orbs",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/orbs-network/ethereum-simulator-typescript.git"
-  },
+  "repository": "https://github.com/nguyenquangthang1997/ethereum-simulator-typescript",
+  "homepage":  "https://github.com/nguyenquangthang1997/ethereum-simulator-typescript",
   "dependencies": {
     "ganache-core": "^2.1.0",
     "solc": "^0.4.24",
