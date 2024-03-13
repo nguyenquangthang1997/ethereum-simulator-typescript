@@ -1,5 +1,5 @@
 {
-  "name": "@thangnq/ethereum-simulator",
+  "name": "solidity-simulator",
   "version": "1.0.0",
   "description": "A typescript library to instrument ganache+web3+solc and test a smart contract end-to-end",
   "main": "dist/lib/index.js",
